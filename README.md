@@ -25,6 +25,7 @@ github 收藏的仓库及其用法．
 ---
 ## Linux
 * [windows95](https://github.com/felixrieseberg/windows95): Windows 95 in Electron. Runs on macOS, Linux, and Windows.
+* [httpie](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://httpie.org https://twitter.com/clihttp
 
 
 ---
