@@ -16,7 +16,7 @@ github 收藏的仓库及其用法．
 
 ---
 ## Python3
-
+* [face recognition](https://github.com/ageitgey/face_recognition)
 
 ---
 ## GoLang
