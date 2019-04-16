@@ -1,34 +1,41 @@
-# github-collector
-github 收藏的仓库及其用法．
+# Github-Collector
+> github 收藏的仓库．
 
 ---
 ## Git
-* [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands
+* [lazygit(simple terminal UI for git commands)](https://github.com/jesseduffield/lazygit): 
 
-  
 ---
 ## Java
-
-
----
-## Python2
-
+* [设计模式](https://github.com/OpenSourceDocs/java-design-patterns)
 
 ---
-## Python3
+## Python
 * [face recognition](https://github.com/ageitgey/face_recognition)
 
 ---
 ## GoLang
-
+* [kubernetes](https://github.com/kubernetes/kubernetes)
+* [使用Lyft的Envoy代理的Kubernetes入口控制器contour](https://github.com/heptio/contour)
 
 ---
 ## Linux
-* [windows95](https://github.com/felixrieseberg/windows95): Windows 95 in Electron. Runs on macOS, Linux, and Windows.
-* [httpie](https://github.com/jakubroztocil/httpie): Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://httpie.org https://twitter.com/clihttp
+* [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95): 
+* [Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.](https://github.com/jakubroztocil/httpie):  https://httpie.org 
 
 
 ---
 ## ML
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding.
 * [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)
+
+## AI
+* [生成对抗网络实现](https://github.com/OpenSourceDocs/magenta)
+* [keras人脸表情识别模型](https://github.com/OpenSourceDocs/face_classification)
+* [dlib-models](https://github.com/OpenSourceDocs/dlib-models)
+* [tensorflow-models](https://github.com/OpenSourceDocs/models)
+* [opencv 分析器模型](https://github.com/OpenSourceDocs/opencv/tree/master/data)
+
+## 其他
+* [浙江大学课程攻略共享计划](https://github.com/OpenSourceDocs/zju-icicles)
+* [certbot](https://github.com/OpenSourceDocs/certbot)
