@@ -28,6 +28,8 @@
 ## ML
 * [100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code): 100 Days of ML Coding.
 * [100-Days-of-ML-Code-Chinese-Version](https://github.com/Avik-Jain/100-Days-of-ML-Code-Chinese-Version)
+* [《动手学深度学习》英文版 即伯克利深度学习（STAT 157，2019春）中文教材](https://github.com/OpenSourceDocs/d2l-zh)
+* [深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述](https://github.com/OpenSourceDocs/DeepLearning-500-questions)
 
 ## AI
 * [生成对抗网络实现](https://github.com/OpenSourceDocs/magenta)
