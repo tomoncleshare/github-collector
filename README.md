@@ -8,6 +8,7 @@
 ---
 ## Java
 * [设计模式](https://github.com/OpenSourceDocs/java-design-patterns)
+* https://github.com/Nurhak/FaceRecognition
 
 ---
 ## Python
