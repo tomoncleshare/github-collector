@@ -43,3 +43,4 @@
 ## 其他
 * [浙江大学课程攻略共享计划](https://github.com/OpenSourceDocs/zju-icicles)
 * [certbot](https://github.com/OpenSourceDocs/certbot)
+* [SVG 徽章](https://shields.io)
