@@ -19,6 +19,7 @@
 * [kubernetes](https://github.com/kubernetes/kubernetes)
 * [使用Lyft的Envoy代理的Kubernetes入口控制器contour](https://github.com/heptio/contour)
 * [Go vendor tool that works with the standard vendor file.](https://github.com/OpenSourceDocs/govendor)
+* [kubernetes外部存储插件、设置程序和帮助程序库](https://github.com/kubernetes-incubator/external-storage)
 
 ---
 ## Linux
