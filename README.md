@@ -10,6 +10,8 @@
 * [设计模式](https://github.com/OpenSourceDocs/java-design-patterns)
 * https://github.com/Nurhak/FaceRecognition
 * [apache 文件压缩](https://github.com/apache/commons-compress) | [examples](https://commons.apache.org/proper/commons-compress/examples.html)
+* [Java implementation of the Aho-Corasick algorithm for efficient string matching](https://github.com/robert-bor/aho-corasick) | [Aho-Corasick的Java实现，针对Ascii优化，支持Unicode](https://github.com/hankcs/aho-corasick) | [Java快速中文敏感词过滤，在15k敏感词库上的过滤速度超过50M字符每秒。](https://github.com/elulis/sensitive-words)
+* [The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.](https://github.com/medcl/elasticsearch-analysis-ik)
 
 ---
 ## Python
@@ -26,6 +28,11 @@
 ## Linux
 * [Windows 95 in Electron. Runs on macOS, Linux, and Windows.](https://github.com/felixrieseberg/windows95): 
 * [Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.](https://github.com/jakubroztocil/httpie):  https://httpie.org 
+
+
+---
+## NLP
+* [封装了大多数nlp项目中常用工具](https://github.com/NLPchina/nlp-lang)
 
 
 ---
