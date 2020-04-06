@@ -13,7 +13,6 @@
 * [Java implementation of the Aho-Corasick algorithm for efficient string matching](https://github.com/robert-bor/aho-corasick) | [Aho-Corasick的Java实现，针对Ascii优化，支持Unicode](https://github.com/hankcs/aho-corasick) | [Java快速中文敏感词过滤，在15k敏感词库上的过滤速度超过50M字符每秒。](https://github.com/elulis/sensitive-words)
 * [The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.](https://github.com/medcl/elasticsearch-analysis-ik)
 * [similarity：相似度计算工具包，java编写。用于词语、短语、句子、词法分析、情感分析、语义分析等相关的相似度计算。](https://github.com/shibing624/similarity)
-* [zookeeper可视化工具](https://github.com/HelloKittyNII/ZooViewer)
 
 ---
 ## Python
@@ -61,5 +60,6 @@
 * https://github.com/free-ss/free-ss.site
 * https://free-ss.site/
 
-## Redis
+## 开发工具
 * [Redis windows客户端](https://github.com/cinience/RedisStudio)
+* [zookeeper可视化工具](https://github.com/HelloKittyNII/ZooViewer) | [zk-web](https://github.com/qiuxiafei/zk-web)
