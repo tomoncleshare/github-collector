@@ -63,3 +63,4 @@
 ## 开发工具
 * [Redis windows客户端](https://github.com/cinience/RedisStudio)
 * [zookeeper可视化工具](https://github.com/HelloKittyNII/ZooViewer) | [zk-web](https://github.com/qiuxiafei/zk-web)
+* [JetBrains 系列软件汉化包](https://github.com/pingfangx/TranslatorX)
