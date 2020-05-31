@@ -14,6 +14,7 @@
 * [The IK Analysis plugin integrates Lucene IK analyzer into elasticsearch, support customized dictionary.](https://github.com/medcl/elasticsearch-analysis-ik)
 * [similarity：相似度计算工具包，java编写。用于词语、短语、句子、词法分析、情感分析、语义分析等相关的相似度计算。](https://github.com/shibing624/similarity)
 * [A library for low latency IPC between multiple Java processes/JVMs (shared-memory-in-java).](https://github.com/caplogic/Mappedbus)
+* [java-and-c-shared-memory](https://stackoverflow.com/questions/15130283/java-and-c-shared-memory) | [any-concept-of-shared-memory-in-java](https://stackoverflow.com/questions/1491519/any-concept-of-shared-memory-in-java)
 
 ---
 ## Python
