@@ -39,6 +39,7 @@
 * [HanLP作者的新书《自然语言处理入门》详细笔记！](https://github.com/NLP-LOVE/Introduction-NLP)
 * [HanLP中文分词，自然语言处理](https://github.com/hankcs/HanLP)
 * [高性能、可扩展的中文NLP工具包](https://github.com/mayabot/mynlp)
+* [Python NLP工具包](https://github.com/isnowfy/snownlp)
 
 ---
 ## ML
