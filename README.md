@@ -28,6 +28,8 @@
 * [Go vendor tool that works with the standard vendor file.](https://github.com/OpenSourceDocs/govendor)
 * [kubernetes外部存储插件、设置程序和帮助程序库](https://github.com/kubernetes-incubator/external-storage)
 * [Kubernetes Native, High Performance Object Storage](https://github.com/minio/minio)
+* [Go HTTP(S)代理库, 支持中间人代理解密HTTPS](https://github.com/ouqiang/goproxy)
+* [一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描](https://github.com/shadow1ng/fscan)
 
 ---
 ## Linux
